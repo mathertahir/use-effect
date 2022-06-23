@@ -44,6 +44,7 @@ const Useeffect = () => {
           <div onClick={()=>{
             setCounter(counter=counter+1)
           }}>{counter}</div>
+          <div>Mather</div>
 
     </div>
   );
